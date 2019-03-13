@@ -2,5 +2,5 @@ bbbbbbbbbbba
 duanfeida ai
 duanfeida love
 shiqi ai twogou
-shiqi ai duanfeida
+shiqi ai duanfeida -
 we are going to record some git commands here.eg add and so on
